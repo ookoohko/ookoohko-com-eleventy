@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/083a49d0-8c56-4935-8119-22db7842b77d/deploy-status)](https://app.netlify.com/sites/ookoohko-blog/deploys)
+
 # eleventy-base-blog v8
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v2.0 release](https://www.11ty.dev/blog/eleventy-v2/)).
